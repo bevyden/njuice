@@ -6,4 +6,4 @@
 5. XAMPP 8.0.7
 
 
-**NJuice** is an innovative juice store powered by the cutting-edge JavaFX technology. To accommodate new customers, you are chosen to create an application for NJuice’s customer and admin. The program should be made using JavaFX Programming Language, with MySQL database Engine. Ensure that you didn’t use regex, Java FXML, JavaFX Scene Builder, or any library used outside the class materials in your project or it will affect your score.
+**NJuice** is an innovative juice store powered by the cutting-edge JavaFX technology. To accommodate new customers, you are chosen to create an application for NJuice’s customer and admin. The program should be made using JavaFX Programming Language, with MySQL database Engine. 
